@@ -1,2 +1,2 @@
-# TP TypeScript Funtions
-Trabajo Practico FrontEnd: Type Script Funtions
+# TP TypeScript Functions
+Trabajo Practico FrontEnd: Type Script Functions
